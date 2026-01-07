@@ -26,4 +26,3 @@ git clone https://github.com/YOURUSERNAME/CloudKraken.git
 cd CloudKraken
 pip install -r requirements.txt
 streamlit run cloudkraken_v2.1.py
-Add full project README with branding and instructions
